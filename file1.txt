@@ -1,1 +1,2 @@
 This is my Git pratice file
+Now i added a second line
